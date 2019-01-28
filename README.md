@@ -1,2 +1,2 @@
 # Codingbat-Warmup-1
-Coding exercises for practice
+Python coding exercises for practice
